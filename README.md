@@ -73,9 +73,3 @@ To use this front-end, you must run the back-end of the project. There is a Dock
 ## Contact
 
 For any questions or assistance, you can create an issue or contact me via email.
-
-<img src="images_readme/logo_unicaen.png" width="200" height="125" alt="University of Caen Normandy Logo">
-<img src="images_readme/baclesse_logo.png" width="125" height="125" alt="Centre François Baclesse">
-<img src="images_readme/LogoOHIFViewer.png" width="300" height="125" alt="Open Health Imaging Fundation">
-<img src="images_readme/mgh_logo.png" width="110" height="125" alt="Massachusetts General Hospital">
-<img src="images_readme/harvard_medical_school_logo.png" width="300" height="125" alt="Harvard Medical School">
